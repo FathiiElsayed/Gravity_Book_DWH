@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LAPTOP-P47PGR3P.gravity_books.BI"
+  DTS:DTSID="{5E1397AA-AA13-455B-8C19-D3EC8912BEEB}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=LAPTOP-P47PGR3P;User ID=BI;Initial Catalog=gravity_books;Provider=SQLOLEDB.1;Persist Security Info=True;Application Name=SSIS-Book_Gravity-{5E1397AA-AA13-455B-8C19-D3EC8912BEEB}LAPTOP-P47PGR3P.gravity_books.BI;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAi91xGmImqk2QeTMMsqDgZgAAAAACAAAAAAAQZgAAAAEAACAAAADGYIMOAmRBScXgXf1mV5YfxRK09YI95WRYmn3zdhH+bwAAAAAOgAAAAAIAACAAAACYNb+MoJJc9lO0IUTYQ6Mflgah9aGCfRDVzO8V37SnWIAAAACRLwa9OH/FPnsge7y20ihisNV7JCFGT7nq/cJ3ohBpOOzKVfl6Sbt3C4xVvw6u8Bd/Fgubau8R1WCWAyj5B15eaotlUeTV9BUrmqqEqWyzUpAJfroeqedeIP8vVp2wuk2o7yo9HAsATzegdcvnAa+vGYDeLWGZDEM9GooG+4Ip50AAAADPMmhz/ZmCtvrsCoISR7EgGp4Tw3yIkzd39dsyh5vWbxSP5kVtoy2IMVntgfXCPyv3bnYt7J77fAaWENR97bAQ</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

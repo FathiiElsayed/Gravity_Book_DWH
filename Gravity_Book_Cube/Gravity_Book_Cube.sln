@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Gravity_Book_Cube", "Gravity_Book_Cube\Gravity_Book_Cube.dwproj", "{D6816527-400C-4E7F-B3DC-9473746E4EB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6816527-400C-4E7F-B3DC-9473746E4EB0}.Development|Default.ActiveCfg = Development
+		{D6816527-400C-4E7F-B3DC-9473746E4EB0}.Development|Default.Build.0 = Development
+		{D6816527-400C-4E7F-B3DC-9473746E4EB0}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C33D699-67D3-48AC-A261-47E8E1093F70}
+	EndGlobalSection
+EndGlobal

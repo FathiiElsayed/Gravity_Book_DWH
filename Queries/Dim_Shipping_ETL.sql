@@ -1,0 +1,2 @@
+select method_id ,method_name
+from shipping_method
